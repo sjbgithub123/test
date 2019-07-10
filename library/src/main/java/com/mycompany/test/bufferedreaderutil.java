@@ -1,4 +1,4 @@
-﻿package com.mycompany.test;
+package com.mycompany.test;
 
 import android.app.*;
 import android.os.*;
